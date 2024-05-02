@@ -1,0 +1,69 @@
+---
+title: "My Website"
+author: "Maria Mikhaylova"
+output:
+  html_document:
+    toc: true # table of contents is true
+    toc_float: true # a fancier one
+    toc_depth: 4 # default is 3
+---
+
+# Markdown {#markdown-header}
+
+# My big heading
+
+## A smaller heading
+
+### Even smaller one!
+
+<U>This will be underligned</U>\
+**bold text**\
+__this is bold too__\
+_italics_\
+*italics too*\
+x^2^ = 4\
+H~2~O~2~\
+`c = 2   x = 6`\
+
+~~this is a struck out~~
+
+# 1,500 scientists lift the lid on reproducibility
+
+### Monya Baker
+
+### 25 May 2016
+
+## Survey sheds light on the 'crisis' rocking research.
+
+**More than 70% researchers could not reproduce another scientist's experiments**, and more than half have failed to reproduce their own experiments.\
+\
+
+The data reveal sometimes-contradictory attitudes towards reproducibility. Although `52%` of those surveyed agree that there is a significant *crisis* of **reproducibility**, less than `31%` think that failure to reproduce published stuff means that the result is probably wrong [^1] , and most still trust the published literature.
+
+
+[bioinformatics training in Cambridge](https://training.cam.ac.uk/bioinformatics/event-timetable)  
+
+[^1]: As scientists we tend to doubt in our results more.
+
+### unordered lists
+* first item
+    * four a
+* second item  
+
+### Tasks list 
+- [ ] unchecked item  
+- [x] checked item
+
+![R Logo](img/download.png)\
+\
+
+### Different toughts on reproducibility  
+
+![graph](https://www.nature.com/news/polopoly_fs/7.36716.1469695923!/image/reproducibility-graphic-online1.jpeg_gen/derivatives/landscape_630/reproducibility-graphic-online1.jpeg)
+
+| "No crisis" | "*Crisis*" |
+| :---: | :---: |
+| 10% | 90% |
+
+*Go to more comprehensive table generator at* [tables generator](https://www.tablesgenerator.com/markdown_tables)  
+[link to top](#markdown-header)
