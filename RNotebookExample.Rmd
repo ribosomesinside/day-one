@@ -41,5 +41,3 @@ euro_data_tbl %>%
 ```{r paged-table}
 paged_table(euro_data_tbl)
 ```
-
-This is the new text to master github even more. I am just making changes in local computer to see them on github.
